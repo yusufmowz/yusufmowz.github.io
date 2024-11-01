@@ -1,0 +1,22 @@
+p2{
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image:url(1.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+P{
+    font-size: 150%;
+}
+a{
+    text-decoration: none;
+    font-size: 200%;
+    color: aliceblue;
+}
+h1{
+    font-size: 300%;
+}
+p7{
+    color: white;
+}
